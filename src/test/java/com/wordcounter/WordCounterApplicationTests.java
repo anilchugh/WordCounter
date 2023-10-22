@@ -1,4 +1,4 @@
-package com.wordounter.service;
+package com.wordcounter;
 
 import com.wordcounter.WordCounterApplication;
 import org.junit.Test;
