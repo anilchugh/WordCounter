@@ -1,6 +1,5 @@
 package com.wordcounter;
 
-import com.wordcounter.WordCounterApplication;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;

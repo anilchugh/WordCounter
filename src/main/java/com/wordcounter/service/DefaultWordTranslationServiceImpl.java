@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
  */
 @Service
 public class DefaultWordTranslationServiceImpl implements WordTranslationService {
-
     public String translate(String word) {
         return word;
     }
